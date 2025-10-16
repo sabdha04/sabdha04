@@ -1,8 +1,7 @@
 # Hi Everyone! 
 
 Greetings! I am **Sabdha Putra Laudri**.\
-Currently, I am studying at **Indraprasta PGRI University** majoring in **Informatics Engineering**.\
-I am a student at [Rakamin]
+Currently, I am studying at **Indraprasta PGRI University** majoring in **Informatics Engineering**.
 
 I'm currently studying to be a Fullstack Developer through a government program, namely the **Kampus Merdeka**.  
 
