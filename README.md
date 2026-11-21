@@ -43,7 +43,7 @@
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,dart,go" />
+  <img src="https://skillicons.dev/icons?i=js,python,dart,go" />
 </p>
 
 ### Frontend Development
