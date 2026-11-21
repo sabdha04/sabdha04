@@ -58,11 +58,7 @@
 
 ### Database & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,docker,vscode" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlserver,git,github,docker,vscode" />
 </p>
 
 ---
