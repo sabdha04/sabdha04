@@ -1,32 +1,103 @@
-# Hi Everyone!! 
 
-Greetings! I am **Sabdha Putra Laudri**.\
-Currently, I am studying at **Indraprasta PGRI University** majoring in **Informatics Engineering**.
+<!-- HEADER -->
+<div align="center">
 
-I'm currently studying to be a Fullstack Developer through a government program, namely the **Kampus Merdeka**.  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E8A,100:06B6D4&height=220&section=header&text=Sabdha%20Putra%20Laudri&fontSize=38&fontColor=ffffff&fontAlignY=38&desc=Informatics%20Engineering%20Graduate%20%7C%20Developer&descAlignY=58&descSize=16" width="100%" />
 
-In a rapidly evolving technological landscape, I am committed to honing my abilities as a Fullstack Developer, ensuring that I stay ahead in crafting innovative and user-centric solutions. Through a potent blend of academic pursuits and hands-on experiences, I am carving a path to contribute meaningfully to the digital revolution.
+<h3>Hi there! 👋 Welcome to my GitHub</h3>
 
-If you want to get to know me, please follow my [Linkedin](https://www.linkedin.com/in/sabdha-putra-laudri-349bba221/) account.
-
-<p align="left">
-<a href="https://github.com/sabdha04">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sabdha04&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sabdha04&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+<p>
+  I'm an Informatics Engineering graduate from
+  <b>Universitas Indraprasta PGRI</b>, Indonesia.
 </p>
 
-<!--
-**sabdha04/sabdha04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  I enjoy building web applications, working with databases,
+  and exploring new technologies.
+</p>
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/sabdha-putra-laudri-349bba221/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/sabdha04">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Informatics Engineering Graduate – Universitas Indraprasta PGRI.
+- 💻 Interested in Fullstack Web Development and IT Infrastructure.
+- 🚀 Experienced in Fullstack Web Development through Kampus Merdeka (MSIB).
+- 🗄️ Interested in database management and data processing.
+- 🌱 Always learning and improving my technical skills.
+- 🤝 Open to learning, collaboration, and new opportunities.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,dart,go" />
+</p>
+
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,flutter" />
+</p>
+
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,go,flask" />
+</p>
+
+### Database & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,docker,vscode" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sabdha04&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabdha04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<img width="90%" src="https://streak-stats.demolab.com?user=sabdha04&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 Currently Focused On
+
+- Building fullstack web applications.
+- Improving database and SQL skills.
+- Exploring backend development and API integration.
+- Learning more about software development and IT infrastructure.
+
+---
+
+<div align="center">
+
+### 💬 Let's Connect and Build Something Great!
+
+<p>
+  <i>"Keep learning, keep building, and keep growing."</i>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:164E8A,100:06B6D4&height=100&section=footer" width="100%" />
+
+</div>
